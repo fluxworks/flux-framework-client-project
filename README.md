@@ -1,3 +1,7 @@
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 <div style="position: relative; float:right; width:20%">
 <a href="#" style="float:right; text-align: right">    
     <h3 style="float:right;">FluxFramework</h3>
